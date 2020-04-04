@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Email&amp;PassAuthentication</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_the_email_here">Enter the email here</string>
+    <string name="enter_the_password_here">Enter the password here</string>
+    <string name="enter_the_user_email_here">Enter the user email here</string>
+    <string name="enter_the_user_password_here">Enter the user password here</string>
+    <string name="sign_in_user">Sign In</string>
+
+    <string name="facebook_app_id">931398057325235</string>
+    <string name="fb_login_protocol_scheme">fb931398057325235</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="signout">Signout</string>
+</resources>
